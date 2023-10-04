@@ -1,3 +1,4 @@
 # New-project
-This is the repo for new project.
+This is the repo for a new project.
+<br>
 Author - Ashutosh 
